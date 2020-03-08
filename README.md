@@ -7,9 +7,12 @@ Remove redundancy from given input tsv
 
 optional arguments:
   -h, --help            show this help message and exit
+  
   -i INPUTFILE, --inputfile INPUTFILE
                         input tsv text file
+                        
   -o OUTPUTFILE, --outputfile OUTPUTFILE
                         output tsv text file
+                        
   -s SUMMARISEDBY, --summarisedBy SUMMARISEDBY
                         summarised values by sum , mean, median, mode
